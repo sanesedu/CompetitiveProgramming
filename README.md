@@ -8,8 +8,8 @@ Moreover, inside some of the folders, there is more than one source code file. I
 
 Currently, I have solutions for the following **sites**:
 
-- [Codeforces](https://codeforces.com/): In which this is [my profile](https://codeforces.com/profile/sanesedu)
+- [Codeforces](https://codeforces.com/): where this is [my profile](https://codeforces.com/profile/sanesedu)
 
-- [UVa OnlineJudge](https://onlinejudge.org/): In which this is [my profile](https://uhunt.onlinejudge.org/id/1046256)
+- [UVa OnlineJudge](https://onlinejudge.org/): where this is [my profile](https://uhunt.onlinejudge.org/id/1046256)
 
-- [¡Acepta el reto!](https://www.aceptaelreto.com/): In which this is [my profile](https://www.aceptaelreto.com/user/profile.php?id=12993)
+- [¡Acepta el reto!](https://www.aceptaelreto.com/): where this is [my profile](https://www.aceptaelreto.com/user/profile.php?id=12993)
